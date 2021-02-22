@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Social Application Example</string>
+    <string name="hintTalkAbout">What do you wan\'t to talk about?</string>
 </resources>
